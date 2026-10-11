@@ -12,4 +12,4 @@ This course introduced me to the fundamentals of Generative AI, its real-world a
 
 ## 🏆 Certificate
 
-[View My Certificate (PDF)](AI certification.pdf)
+![Generative AI Certificate](AI certification.png)
